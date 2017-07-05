@@ -1,0 +1,14 @@
+	
+	The BigO of both readability 1 and 2 appears to be N since they both scale linearly.
+Readability 1 with 3 separate while loops is usually slightly faster by a few milliseconds, but nothing too noticeable.
+Readability 2 I had optimized to minimize changing boolean variables, which showed a slight increase in performance.
+I believe that the performance difference observed between readability 1 and 2 is mainly due to the fact that 
+readability 2 has to multiple extra boolean comparisons on each loop as compared to the 2 separate while loop method,
+which only has to do one. Each object is good for different scenarios though. The three separate while loops provide an
+object initialization BigO of 1 while the first access on each of the variables has a bigO of N. Conversely the one with
+a single while loop has an object creation bigO of N, and initial access times of 1.
+
+	Strangely the increased performance with the new algorithm for a single while loop was much more noticeable on my 
+desktop than laptop. The old method is commented out in readability 2. To try to further increase the performance I 
+used separate threads to handle the calculation of each readability object. This increased performance drastically,
+going from several seconds to run them sequentially to less than a second to run them all concurrently. 

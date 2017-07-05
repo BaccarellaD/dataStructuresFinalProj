@@ -1,0 +1,60 @@
+File: 10
+Words: 57351
+Sentences: 3225
+Syllables: 81343
+Flesch Score: 68.79375195290689
+
+File: 20
+Words: 114815
+Sentences: 6346
+Syllables: 162961
+Flesch Score: 68.39533400258621
+
+File: 30
+Words: 172161
+Sentences: 9449
+Syllables: 244086
+Flesch Score: 68.3976960238893
+
+File: 40
+Words: 229404
+Sentences: 12362
+Syllables: 325923
+Flesch Score: 67.80500861654743
+
+File: 50
+Words: 286878
+Sentences: 15509
+Syllables: 407086
+Flesch Score: 68.01081547467167
+
+File: 60
+Words: 344115
+Sentences: 18159
+Syllables: 489898
+Flesch Score: 67.160175462418
+
+File: 70
+Words: 401367
+Sentences: 20950
+Syllables: 572148
+Flesch Score: 66.79213450246374
+
+File: 80
+Words: 458578
+Sentences: 23968
+Syllables: 653626
+Flesch Score: 66.8319728186535
+
+File: 90
+Words: 515724
+Sentences: 26695
+Syllables: 736522
+Flesch Score: 66.40611391616568
+
+File: 100
+Words: 572741
+Sentences: 29157
+Syllables: 822250
+Flesch Score: 65.44184481841712
+
